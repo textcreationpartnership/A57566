@@ -1,0 +1,874 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A posie for lovers, or, The terrestrial Venus unmaskt in four poems.</title>
+            <author>T. R. (Thomas Rogers), 1660-1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57566</idno>
+            <idno type="STC">Wing R1840</idno>
+            <idno type="STC">ESTC R11976</idno>
+            <idno type="EEBO-CITATION">13574925</idno>
+            <idno type="OCLC">ocm 13574925</idno>
+            <idno type="VID">100425</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57566)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100425)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 799:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A posie for lovers, or, The terrestrial Venus unmaskt in four poems.</title>
+                  <author>T. R. (Thomas Rogers), 1660-1694.</author>
+               </titleStmt>
+               <extent>[4], 23, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Speed ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Musophilus.</note>
+                  <note>Written by Thomas Rogers.  Cf. DNB.</note>
+                  <note>Advertisement on p. [1] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>(from t.p.) I The tempest, or, Enchanting lady -- II. The luscious pennance, or, The fasting lady -- III. The feign'd innocence, or, The jealous and  whining lady -- IV. To an old gamesome madam who twittingly askt the authour when he design'd to settle the world.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100425:1"/>
+            <pb facs="tcp:100425:1" rendition="simple:additions"/>
+            <p>A Poſie for Lovers: OR THE <hi>Terreſtrial</hi> Venus <hi>Unmaskt.</hi> IN FOUR POEMS, <hi>VIZ</hi>
+               <list>
+                  <item>I. The Tempeſt, or Enchanting Lady.</item>
+                  <item>II. The Luſcious Pennance, or the Faſting Lady.</item>
+                  <item>III. The Feign'd Innocence, or the Jealous and Whining Lady.</item>
+                  <item>IV. To an Old Gameſome Madam, who Twit<g ref="char:EOLhyphen"/>tingly Askt the Authour, when he De<g ref="char:EOLhyphen"/>ſign'd to Settle in the World.</item>
+               </list>
+            </p>
+            <q>
+               <l>Adde quod inſidia ſacris a vatibus abſunt,</l>
+               <l>Et facit ad mores ars quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> noſtra bonos.</l>
+               <l>Nec nos ambitio, nec nos amor urget habendi:</l>
+               <l>Contempto colitur lectus, &amp; umbra foro.</l>
+               <bibl>Ovid. de Art. Amand. lib. 3.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Speed,</hi> at the Sign of the <hi>Three Crowns</hi> in <hi>Cornhil,</hi> near the <hi>Royal Exchange.</hi> 1694.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100425:2"/>
+            <pb facs="tcp:100425:2"/>
+            <head>To the Little Crooked, yet Sweet and Lovely <hi>Roſania.</hi>
+            </head>
+            <p>A Great Pretender to History tells us, That <hi>Ann Bulleyn</hi> had an Ill Shape, a Yellow Colour, a Gag Tooth, and a Lump under the Chin; but had withal a moſt Delicious Wit, a Graceful Meen, an Obliging Air, and Good Humour: Now, altho' this may ſeem but an indifferent Picture to groſs and vulgar Diſcerners, yet it will paſs for a Beauty in a true <hi>Platonical</hi> ſenſe; ſince internal Comelineſs ſupplies all other Defects. Accordingly the leſſer Irregula<g ref="char:EOLhyphen"/>rities of your Frame can be no matter of Reproach, ſince your Intelle<g ref="char:EOLhyphen"/>ctual Graces are ſo conſpicuous to the World. Your Soul in her narrow Lodging (like an honeſt Dear Friend in a little homely Tenement) is unaccountably entertaining: And your Wit and Perfections may juſtly put Mankind to the bluſh, as they do me to a ſtand, when I conſider my Inſufficiency to deſcribe them.</p>
+            <p>I hope, <hi>Madam,</hi> You will never fail to bear witneſs before the World, that I have ever been a juſt (though not blind) Admirer of the good Ones, or (which I hope is all one) the greater part of your Sex: I hate the poynted and licentious <hi>Lampoons,</hi> that ſeem levell'd at Wo<g ref="char:EOLhyphen"/>mankind without any ſort of diſtinction; and which look more like the Rudeneſs of Porters, than the juſt Raillery of a Gentleman: To rake into the Wounds, or expoſe the Frailties of Ladies, is barbarous and inhumane; and for a Man (becauſe he is of a dull and earthy Comple<g ref="char:EOLhyphen"/>ction, or has been caſt off by his Miſtreſs for want of agreeable Merit) to rail at the Sex, or blaſt a Woman of Honour, is abuſive and lamen<g ref="char:EOLhyphen"/>table Cant, and deſerves a greater Caſtigation than that of the Pen. I know, they that are ſtudiouſly wicked, or vicious upon Principle, are
+<pb facs="tcp:100425:3"/>commonly moſt ſevere upon the little Frailties of thoſe, that are deſign<g ref="char:EOLhyphen"/>edly vertuous, and generous in their Aims, but want a uicer Regulation of themſelves: And how eaſie is it for any deſpicable Wretch (that has but an invincible Forehead) to ſnicker or ſhake the Head over the little Lapſes or Misfortunes of their Betters; and with a ſolemn Nod, or decorous Management of Fact, to pity Perſons of Worth and Re<g ref="char:EOLhyphen"/>putation.</p>
+            <p>My Deſign therefore, in the following Eſſays, is not in the leaſt to fully the Glories of the Sex, (for why ſhould the ſweet Nightingales and innocent Turtles ſuffer with the obſcene Birds?) but to make an agreeable and juſt Diſcrimination; and to contribute a little towards the Eaſineſs of Humane Life, the Peace of Families, and generous Freedom and Gaity of Converſation. I do freely own, that Woman, while ſhe glitters in her native Innocence and Charms, is the Fair ſide of Nature, and prettieſt brighteſt Ornament of the Creation: She is more wellcome than the Morn, more beauteous than the Spring, and more refreſhing than the Light: And yet if ſhe Degenerates into an Habitual Exerciſe of Black and Ill natur'd Paſſions, (for aſhort Fit may be uſeful and becoming,) ſhe preſently falls from her Soveraignty and Graces, loſes all her Charms, and the fouleſt Vizor a <hi>Poet</hi> can contrive will rather mend, than heighten her Deformity.</p>
+            <p>The following Lectures were at first haſtily compoſed, for the ſatis<g ref="char:EOLhyphen"/>faction of ſome private Friends; and are now Publiſhed at the earneſt deſire of ſome of your Admirers, who are Perſons well affected to your Sex: Whether I have tranſgreſs'd the Limits of true <hi>Decorum,</hi> I leave to you Impartially to determine. With all Submiſſion and Gra<g ref="char:EOLhyphen"/>titude I own your Endearing Favours and Charitable Smiles: And do here lay my ſelf as well as the Hopeleſs <hi>Lauſania</hi> at your Feet. I am,</p>
+            <closer>
+               <signed>
+                  <hi>Dear Madam, Your Servant and Admirer,</hi> Muſophilus.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:100425:3"/>
+            <head>THE TEMPEST, OR, <hi>Enchanting Lady.</hi>
+            </head>
+            <lg>
+               <l>BOLD are thoſe Men, that with advent'rous Toil</l>
+               <l>Put forth to Sea, and leaving Native Soyl,</l>
+               <l>By Guſts and Waves around the Globe are whirl'd,</l>
+               <l>Like flying Poſts, or Carriers of the World;</l>
+               <l>That with weak Oar advance and force their way</l>
+               <l>Through th' unfrequented Deſarts of the Sea,</l>
+               <l>The Scaly Monſters of the Deep engage,</l>
+               <l>And with frail Veſſel tempt proud <hi>Neptune</hi>'s Rage:</l>
+               <l>Yet bolder they, and ſomewhat more than bold,</l>
+               <l>That ſpend their days with an Imperious Scold;</l>
+               <l>That for their boſom Friend loud Woman have,</l>
+               <l>More Wild than Storms, more Rav'nous than the Grave:</l>
+               <pb n="2" facs="tcp:100425:4"/>
+               <l>For Graves are glutted, Storms are reconcil'd,</l>
+               <l>Waves liſten to a Peace, and ſoon grow mild;</l>
+               <l>But <hi>Shrew,</hi> the Monſter of the World, do's ne'er</l>
+               <l>Hearken to Charms, to Reaſon lends no Ear,</l>
+               <l>But drives to endleſs Horrour, and Deſpair.</l>
+            </lg>
+            <lg>
+               <l>Old <hi>Sodom</hi>'s burning Piles, and <hi>Noah</hi>'s Flood,</l>
+               <l>Joyn'd with all <hi>Aegypt</hi>'s Plagues,</l>
+               <l>Compar'd to this were the light Wrath of God;</l>
+               <l>That only doom'd the Wicked, ſpar'd the Good.</l>
+            </lg>
+            <lg>
+               <l>But here the brighteſt Souls, that e're did wear</l>
+               <l>Mortality, the common Vengeance ſhare;</l>
+               <l>The Wiſe in this black Catalogue we find;</l>
+               <l>
+                  <hi>Shrew</hi>'s the Corruption of Faln Womankind,</l>
+               <l>The laſt and greateſt Curſe on Humane Race deſign'd.</l>
+               <l>O the hard Fate of <hi>Socrates</hi> and <hi>Job!</hi>
+               </l>
+               <l>How bleſt was he, that liv'd alone in Tub?</l>
+               <l>Happy he ſpent his ſilent flowing Days</l>
+               <l>In Sacred Solitude, and Golden Eaſe:</l>
+               <l>Free from Domeſtick Toil, and Boſom Strife,</l>
+               <l>And that dire Comfort, call'd a clam'rous Wife.</l>
+            </lg>
+            <lg>
+               <l>If ever Mortal merited this Fate,</l>
+               <l>'Twas <hi>Pedro,</hi> of all Men the ſcorn and hate:</l>
+               <l>
+                  <hi>Pedro</hi> a Tiny Wight, but proudly blind,</l>
+               <l>In his own thoughts the rareſt of his kind,</l>
+               <l>Plac't all his Bliſs in Honourable Gain,</l>
+               <l>Title and Pelf ſupply'd the want of Brain:</l>
+               <l>T' Augment his Store, dull Comfort of his Life,</l>
+               <l>The Fop at length wou'd needs trump up a Wife;</l>
+               <l>And, without Nature's call, his Thoughts did bend</l>
+               <l>To Nuptial Banquets, and a Female Friend.</l>
+               <pb n="3" facs="tcp:100425:4"/>
+               <l>His wiſer Friends for <hi>Cloe</hi> did appear,</l>
+               <l>
+                  <hi>Cloe</hi> the Kind, the Vertuous, and the Fair;</l>
+               <l>But all perſwaſions on the Sot were ſpilt,</l>
+               <l>For he had vow'd to have a Woman gilt.</l>
+               <l>The Fame of Rich <hi>Dorinda</hi> reach't his Ear,</l>
+               <l>All his Devotion was laid out on her;</l>
+               <l>Fortune ſhe had enough for Woman-kind,</l>
+               <l>And this had ſtruck th' Aſpiring Lubber blind:</l>
+               <l>True, at firſt view he gaz'd, as in a Fright,</l>
+               <l>And ſhrank, as at ſome Viſion of the Night,</l>
+               <l>Her very Form did wound his tender Sight.</l>
+               <l>But Gold, Almighty Gold, (that with its Charms</l>
+               <l>Tranſlates the Dowdy to the Hero's Arms;</l>
+               <l>That Conſecrates a Dunghil, Haggard Race,</l>
+               <l>Gilds the Deform'd, and ſmooths the Wrinkled Face)</l>
+               <l>Soon brought the Miſer to himſelf agen;</l>
+               <l>The Brighten'd <hi>Marmo</hi> ſoon appear'd a Queen.</l>
+               <l>In ſhort, with Holy Words the Fiends were joyn'd;</l>
+               <l>Their Souls and Bodies decently entwin'd:</l>
+               <l>And ſure the World henceforth will be ſo Civil,</l>
+               <l>To own a Carnal League 'twixt Witch, and Devil.</l>
+            </lg>
+            <lg>
+               <l>Thus far her Tongue lay cloſe in Ambuſcade,</l>
+               <l>And did not <hi>Pedro</hi>'s Noddle yet invade;</l>
+               <l>That Miſt'ry was reſerv'd for after-times,</l>
+               <l>Women in days of Courtſhip ſhrowd their Crimes:</l>
+               <l>And wiſely for a while their Faults conceal,</l>
+               <l>Which days of Wedlock do too ſoon reveal.</l>
+            </lg>
+            <lg>
+               <l>Scarce had the Moon her Second Round began,</l>
+               <l>When firſt with Voice ſhe Thunder-ſtruck the Man:</l>
+               <l>Whether inſpir'd with Inſolent Diſguſt,</l>
+               <l>For want of Bridal Fuel to her Luſt,</l>
+               <pb n="4" facs="tcp:100425:5"/>
+               <l>Or ſent by Heav'n to plague the Niggard Clown</l>
+               <l>For his Enormous Vices, is unknown;</l>
+               <l>But ſure no Mortal Wight below the Sphear,</l>
+               <l>Did e're ſo great a Storm of Vengeance bear.</l>
+               <l>Her Mouth like Bay of <hi>Biſcay</hi> ſeem'd deſign'd,</l>
+               <l>When all things elſe were Calm, there blew a Wind:</l>
+               <l>And all the Barriſters of <hi>Billingſgate</hi>
+               </l>
+               <l>Seem'd but dumb Orators when ſhe did prate.</l>
+               <l>As when <hi>Pandora</hi>'s Box did open fly,</l>
+               <l>Plagues and Infection gather'd in the Sky;</l>
+               <l>So from her Mouth expanded wide did riſe</l>
+               <l>Such Storms, as did the Neighbourhood ſurprize.</l>
+               <l>No Bell-Mans Midnight Cry, when Sleep invades,</l>
+               <l>Nor an Old Madam ſcolding at her Maids,</l>
+               <l>Nor grunting Spouſe which thro' the Houſe do's bound,</l>
+               <l>E're rais'd ſo fell, and terrible a ſound.</l>
+               <l>Th' ill-boding Owls, and Dogs that bark at Moon,</l>
+               <l>And Cats that ſcream, when the Love-fit comes on,</l>
+               <l>Ne're rais'd ſuch grating Echoes to the Ear;</l>
+               <l>'Twas Teſt enough to make a Quaker ſwear.</l>
+            </lg>
+            <lg>
+               <l>In vain did Husband Pray and Sue for Peace,</l>
+               <l>And offer all his Gold for one Days Eaſe:</l>
+               <l>With Holy Words t'appeaſe her he wou'd try;</l>
+               <l>In Holy Phraſe ſhe loudly wou'd reply,</l>
+               <l>And ſtorm his Ears with hallow'd Raillery.</l>
+            </lg>
+            <lg>
+               <l>Sometimes She'd Hieroglyphically Preach,</l>
+               <l>And with Strange, Antick, and Dumb-Figures teach;</l>
+               <l>The Houſe did then a ſilent Meeting ſeem;</l>
+               <l>She'd turn up Whites, like Propheteſs in Dream;</l>
+               <l>Sit as becalm'd, not moving Hand or Voice,</l>
+               <l>Till bluſtring Spirit riſing made a Noiſe:</l>
+               <pb n="5" facs="tcp:100425:5"/>
+               <l>When rais'd, it grew again as troubleſome,</l>
+               <l>As the fam'd <hi>German</hi> Pipe, or Devil's Drum:</l>
+               <l>So Men in <hi>Lapland,</hi> when Hag proves unkind,</l>
+               <l>Wait many hours for a fair Gale of Wind.</l>
+            </lg>
+            <lg>
+               <l>Of all thoſe Ills, that e're came wing'd from Hell,</l>
+               <l>This Plague oth' Tongue's the moſt incurable:</l>
+               <l>A <hi>Magdalene</hi> in time may prove a Saint;</l>
+               <l>But none e're cur'd a Woman prone to cant:</l>
+            </lg>
+            <lg>
+               <l>This was <hi>Dorinda</hi>'s Caſe; and, when grown Old,</l>
+               <l>She ſtill appear'd true Conſcientious Scold:</l>
+               <l>When half depriv'd of little <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enſe and Wits,</l>
+               <l>She Rav'd like Woman in Hiſterick Fits.</l>
+               <l>She cough'd out Choler; and rail'd on of Courſe;</l>
+               <l>The Godly Bedlam grunted out a Curſe:</l>
+               <l>Mump't out her Scorn, and grumbled Holy VVords;</l>
+               <l>A Cutler's Shop ſtuck round with glittering Swords</l>
+               <l>Was not ſo dangerous as her Empty Mouth;</l>
+               <l>For Zeal and Grace ſupplyed the want of Tooth;</l>
+               <l>With Jaw diſarm'd, but edg'd with Godly Spite,</l>
+               <l>She'd worſe than the fam'd <hi>Turky</hi> Granum bite:</l>
+               <l>So long, ſo ſolemnly ſhe'd ſcowl, and cant,</l>
+               <l>
+                  <hi>Job</hi>'s Wife compar'd to her, may ſeem a Saint,</l>
+               <l>Who did but once, though with a Vengeance, rant:</l>
+               <l>Like <hi>Pliny</hi>'s Fiſh, ſhe was profuſely hung;</l>
+               <l>You'd think ſhe wore ſharp Teeth within her Tongue.</l>
+            </lg>
+            <lg>
+               <l>Thus loudly did She Reign to the laſt Day,</l>
+               <l>And puniſh <hi>Pedro</hi> with her Tyrannous ſway;</l>
+               <l>Her Wakeful Engine could no ſilence keep;</l>
+               <l>Others may Talk, She Scolded in her ſleep,</l>
+               <l>Hag-rid his Soul by Night, and all Day long,</l>
+               <l>Blaſted his Senſes with her fiery Tongue:</l>
+               <pb n="6" facs="tcp:100425:6"/>
+               <l>She laſh't the tim'rous Slave without Remorſe,</l>
+               <l>Till the dull Creature groan'd like <hi>Trojan</hi> Horſe;</l>
+               <l>Then left him bleeding, panting maim'd, and tir'd,</l>
+               <l>And as ſhe liv'd in Storms, in Storms Expir'd.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Anacreon</hi> ſure was drunk, when Beauties Charms</l>
+               <l>Were made, by him, Myſterious Woman's Arms;</l>
+               <l>For certainly Horns, Talon, Beaks and Wings,</l>
+               <l>With all th' Artillery of Teeth, and Stings;</l>
+               <l>Thoſe Weapons which to Birds, and Beaſts belong</l>
+               <l>Are harmleſs Toys compar'd to Woman's Tongue:</l>
+            </lg>
+            <lg>
+               <l>If e're my Fate, unknown to me, decreed</l>
+               <l>That I muſt ſhare the Joys oth' Nuptial Bed;</l>
+               <l>If e're I muſt, for Love of Womankind,</l>
+               <l>Freedom and Philoſophick Eaſe reſign;</l>
+               <l>I only beg the ventrous She may prove</l>
+               <l>A Gentle, Sweet, Good-Natur'd, Houſhold Dove:</l>
+               <l>Tho' She be Crooked, Squint Ey'd, Poor, and Blind,</l>
+               <l>She's welcome, if ſhe's Pleaſant, Calm, and Kind;</l>
+               <l>I'll know no Uglineſs but that oth' Mind:</l>
+               <l>I could without the leaſt Convulſive pain,</l>
+               <l>The ſhock of Honeſt Poverty ſuſtain,</l>
+               <l>If ſhe but ſilent prove, I'll ne'er complain.</l>
+               <l>I could methinks,</l>
+               <l>For my Dear, tender Spouſe, as yet unknown,</l>
+               <l>Part with a mangled Limb, without a Groan:</l>
+               <l>I could without the leaſt reluctant fear</l>
+               <l>The voice of Thunder and of Earthquakes bear,</l>
+               <l>And face the grimmeſt Death without Deſpair.</l>
+               <l>But to be doom'd to loud Domeſtick Strife,</l>
+               <l>To that Rank Bleſſing, call'd a Clam'rous Wife, (of Life;</l>
+               <l>That with her cant and tears ſow'rs the whole draught</l>
+               <pb n="7" facs="tcp:100425:6"/>
+               <l>To fall a dull, unpittyed Sacrifice,</l>
+               <l>To a falſe Woman's Scorn, and dreadful Voyce;</l>
+               <l>Juſt Heavens forbear, as you are kind and good,</l>
+               <l>'Tis too ſevere a Teſt for Fleſh and Blood:</l>
+               <l>'Tis Gibbet, Vultur, Wheel, and Rowling-Stone,</l>
+               <l>All the Ten Perſecutions cramm'd in one.</l>
+               <l>'Tis ſuch a ſignal, and Tranſcendent Curſe,</l>
+               <l>That nothing, but Damnation, can be worſe.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="8" facs="tcp:100425:7"/>
+            <head>THE Luſcious Pennance: OR <hi>The Faſting Lady.</hi>
+            </head>
+            <lg>
+               <l>LONG had <hi>Lauſania,</hi> fluſh't with hot deſire,</l>
+               <l>Been the Paſtime of many a Knight and 'Squire;</l>
+               <l>Long had ſhe in their preſence wiſh't and ſigh'd,</l>
+               <l>Look't eagerly, and been as oft deni'd:</l>
+               <l>Next, with a moving Grace, ſhe did relate</l>
+               <l>Her handſom Fortune, Alamode Eſtate,</l>
+               <l>Her beaut'ous Jewels, tempting Gold and Plate.</l>
+               <l>Theſe ſcorn'd to help her Importuning Wants,</l>
+               <l>She ſeem'd to Liſt her ſelf among the Saints;</l>
+               <l>Many long hours diſtreſſed ſhe wou'd dwell</l>
+               <l>In Lonely Cloſet, her Diſconſolate Cell,</l>
+               <l>(Well ſtor'd with Biskets, Wine, and Godly Books)</l>
+               <l>And thence peep forth with Comfortable Looks;</l>
+               <l>Thus a long while ſhe wantonly wou'd pray,</l>
+               <l>Faſt ſweetly, and indulge it ev'ry day.</l>
+               <pb n="9" facs="tcp:100425:7"/>
+               <l>This done, to th' rame ſleek Chaplain ſhe complain'd,</l>
+               <l>With begging look; but was by him diſdain'd:</l>
+               <l>He ſcorn'd to ſoil a Conſecrated Hand.</l>
+            </lg>
+            <lg>
+               <l>Unhappy ſtate of poor afflicted Maids!</l>
+               <l>When vig'rous warmth, or gay deſire invades!</l>
+               <l>How did <hi>Lauſania</hi> try with wearied Hands</l>
+               <l>T' Enrich her Face, as Farmers do their Lands;</l>
+               <l>And dung with Paint her wrinkl'd, ſhrivel'd Brow,</l>
+               <l>A Barren Soil, where Beauty ne'er muſt grow?</l>
+               <l>Much better; had ſhe drain'd the wanton Flood,</l>
+               <l>Or with Infuſions chill'd her ſulph'rous Blood;</l>
+               <l>She ſhou'd have ſhunn'd all Hot provoking Meat,</l>
+               <l>And laid aſide cold Tea, and Chocolate;</l>
+               <l>Faſted and pray'd in earneſt all day long,</l>
+               <l>And cool'd at once her Liver, and her Tongue;</l>
+               <l>Happy ſhe might have been had this been done;</l>
+               <l>And out of her the Devil of Luſt had gone.</l>
+               <l>Now, thanks to her dear ſelf, alone ſhe's left,</l>
+               <l>Of Conſolation, as of Charms, bereft:</l>
+               <l>The Finger-butt of Grooms; abhor'd, and fear'd,</l>
+               <l>Like Blazing Star, or Woman with a Beard.</l>
+               <l>Her old Deſpair is now to Madneſs grown,</l>
+               <l>She bites each Man ſhe meets, raves up and down,</l>
+               <l>The celebrated Scold of all the Town.</l>
+               <l>And ſhe, whoſe Talent 'twas to court and woo,</l>
+               <l>Does all Mankind with Raillery purſue.</l>
+               <l>The ſillineſs of Man ſhe does expoſe,</l>
+               <l>And vows ſhe'd ſooner take a Dog for Spouſe,</l>
+               <l>Her am'rous Shock, or darling Monkey chuſe.</l>
+               <l>And ſure a fitter Match was never ſeen;</l>
+               <l>A Puſs with Top-knot wedded to <hi>La Chien.</hi>
+               </l>
+            </lg>
+            <pb n="10" facs="tcp:100425:8"/>
+            <lg>
+               <l>Blot of her Sex! All o'er deformed and foul!</l>
+               <l>Her Body's a true Emblem of her Soul:</l>
+               <l>
+                  <hi>Lanſania!</hi> Thy Graces ſhall out-ſhine</l>
+               <l>The glorious Pranks of much fam'd <hi>Meſſaline:</hi>
+               </l>
+               <l>What ſhe once acted, thou in though haſt done;</l>
+               <l>May all her Praiſe and Merit be thy own.</l>
+               <l>Fair <hi>Roſamond, Jane Shore,</hi> and all the Fry</l>
+               <l>Of ſuch rare <hi>Brittiſh</hi> Worthies yeild to thee;</l>
+               <l>Their Vice, were in a fair form Enſhrin'd;</l>
+               <l>But thou art blaſted both in Shape and Mind.</l>
+               <l>Thou art not fit for Nunnery; at beſt</l>
+               <l>Art not a Bait for an Hot blooded Prieſt:</l>
+               <l>He's curſt that with thee in a Church ſhall ſtand,</l>
+               <l>And pennance do with Woman in his Hand.</l>
+               <l>Without a Blot I ſhould not write thy Name,</l>
+               <l>Nor without Scorn thy Pedigree proclaim:</l>
+               <l>Thy Noſe from <hi>Mother Shipton</hi> ſpeaks thy Race,</l>
+               <l>And ſtands like <hi>Palliſadoe</hi> on thy Face;</l>
+               <l>As if 'twere meant from thy Embrace to fright</l>
+               <l>Mankind, If ever <hi>Incubus</hi> by Night</l>
+               <l>On thy Foul Body ſhould deſign a Rape,</l>
+               <l>He ought t'aſſume ſome new Enormous Shape;</l>
+               <l>Elſe with thy uglier Form, and equal Soul,</l>
+               <l>Thou wilt o'er-match the poor Infe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nal Fool.</l>
+               <l>The Northern Bear, that did a Maid compreſs,</l>
+               <l>Had fled at ſight of thy Tremendous Face;</l>
+               <l>
+                  <hi>Pygmalion</hi> too had ſhunn'd thy loath'd Embrace.</l>
+               <l>Waſt thou but landed on the Eaſtern Shore,</l>
+               <l>Thy very Looks wou'd all <hi>Arabia</hi> ſowr;</l>
+               <l>And had the <hi>Pontick</hi> King but met thy Breath,</l>
+               <l>Tho' Poyſon-proof, he might have ſuck't in Death.</l>
+            </lg>
+            <lg>
+               <l>Whenever Nymph, whom Thought could never ſtain,</l>
+               <l>Shall be aſſaulted by ſome luſtful Swain,</l>
+               <pb n="11" facs="tcp:100425:8"/>
+               <l>Whom Thoughts of Hell or Gibbet ne'er could ſcar;</l>
+               <l>O that thy monſtrous Image but appear!</l>
+               <l>The ſight would daſh his villanous Intent,</l>
+               <l>And ſtrike the inſulting Letcher impotent.</l>
+            </lg>
+            <lg>
+               <l>Hence, to ſome rude wild <hi>Indian</hi> Climate fly,</l>
+               <l>Where Men to Devils do Allegiance pay,</l>
+               <l>There ſome Reſpect perhaps may light on thee.</l>
+               <l>Fly to ſome Barbarous Coaſt, to <hi>Affrick</hi>'s Sand;</l>
+               <l>Thou haſt no hopes in any Chriſtian Land;</l>
+               <l>Unleſs ſome Puny, Caſt-off, Tawdry Fool,</l>
+               <l>The Sport of Woman-kind, and Nature's Tool,</l>
+               <l>Grow deſperate, and in ſad penſive Caſe</l>
+               <l>Wink hard, and boldly ruſh to thy Embrace.</l>
+               <l>Like moody <hi>Saul,</hi> who, thrown from all his Bliſs,</l>
+               <l>Rent from all Hope, and ſunk into Diſtreſs,</l>
+               <l>At <hi>Endor</hi> Courted an Infernal Bitch,</l>
+               <l>And made his laſt Appeal unto a Witch.</l>
+            </lg>
+            <lg>
+               <l>Pardon ye Nymphs of a Superior Sphear,</l>
+               <l>Whom ſhortly I'll accoſt with awful Fear:</l>
+               <l>I love your Sex; and at your Shrines adore,</l>
+               <l>And next to Heav'ns, your Bleſſings I implore.</l>
+               <l>I feel your Glitt'ring Charms, partake your Joys,</l>
+               <l>And wiſh you Bleſt with pretty Girls and Boys.</l>
+               <l>In all your Toils I bear a mournful part,</l>
+               <l>And each ſad Accent ſtrikes my Tender Heart:</l>
+               <l>When I hear a forſaken Virgin's Cries,</l>
+               <l>My Mother's Softneſs comes into my Eyes;</l>
+               <l>Alas! poor Soul, look how ſhe pines and dies.</l>
+               <l>When a Young Widow by the Grave do's ſtand</l>
+               <l>Of her Departed Dear; I catch her Hand,</l>
+               <l>And willing am the fading Bloom to ſave;</l>
+               <l>And fear leaſt ſhe ſhould drop into the Grave.</l>
+               <pb n="12" facs="tcp:100425:9"/>
+               <l>At <hi>Dido</hi>'s Fate I've often wept, and bled;</l>
+               <l>Nor can I Patient <hi>Griſle</hi>'s Story read</l>
+               <l>Without a Sigh; Nay I could never blame</l>
+               <l>Th' uncommon Ardours of th' <hi>Epheſian</hi> Dame.</l>
+               <l>Thoſe Errors, which from gen'rous Love proceed,</l>
+               <l>To me but ſmall Apology can need:</l>
+               <l>While others Laugh or Rail, I beat my Breaſt;</l>
+               <l>I cannot turn Misfortunes into Jeſt;</l>
+               <l>But count 'em Spots of Humane Race, that dare</l>
+               <l>Blaſpheme the Glorious Frailties of the Fair.</l>
+               <l>Yet if th' Incarnate Angels chooſe to fall;</l>
+               <l>If their Love ſowrs to Vanity and Gall,</l>
+               <l>Their Pangs and Throws without concern I ſee;</l>
+               <l>All ſuch proud She's <hi>Lauſanias</hi> are to me.</l>
+               <l>And may <hi>Lauſania</hi>'s blaſted Pride and Scorn</l>
+               <l>A laſting Terrour prove to Nymphs unborn.</l>
+               <l>O that ſhe could beg Pardon and Relent:</l>
+               <l>But that's too much to hope: If ſhe Repent,</l>
+               <l>Furies will put on Mourning, Hell was ne'er</l>
+               <l>So cheated, ſince the Death of <hi>R—r.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="13" facs="tcp:100425:9"/>
+            <head>THE Feign'd Innocence: OR <hi>The Jealous and Whining Lady.</hi>
+            </head>
+            <head type="sub">
+               <hi>Horatio</hi> a Perſon of Honour, of a Free but Vertuous Tem<g ref="char:EOLhyphen"/>per, Marries <hi>Lucinda;</hi> a Lady of good Deſcent and Celebrated Beauty, but a little too Affected and Demure: After the ſatisfactory Enjoyment of a few Years in her much lov'd Converſation, be Deſerts her Bed, and de<g ref="char:EOLhyphen"/>nies all Nuptial Communion with her, upon too apparent Evidence of her Diſhonourable Conduct. After ſome Daies of Abſence, the now Diſtreſſed <hi>Lucinda</hi> ſends him this Complaining Epiſtle.</head>
+            <lg>
+               <l>OFT have I in my Tender Non-age cry'd</l>
+               <l>And with a bleeding Heart ſate down and ſigh'd,</l>
+               <l>At the ſad Story of <hi>Octavia</hi>'s Fate,</l>
+               <l>Deſerted by her <hi>Antony</hi> the Great:</l>
+               <pb n="14" facs="tcp:100425:10"/>
+               <l>Tho' he with ſullen brow from her withdrew,</l>
+               <l>And wing'd with Charms to <hi>Cleopatra</hi> flew,</l>
+               <l>Urg'd by the Fates againſt <hi>Octavia</hi>'s Will,</l>
+               <l>Yet She, kind She, Lov'd and Enjoy'd him ſtill:</l>
+               <l>(For Lovers live not where they ſigh and move,</l>
+               <l>But where their Paſſion's fixt, and where they Love.)</l>
+               <l>Her Fortune chang'd by <hi>Cleopatra</hi>'s Face,</l>
+               <l>She bore th' Affliction with a moving Grace;</l>
+               <l>Lov'd on with equal conſtant Strains, and ne'er</l>
+               <l>Spoke his Dear Name without a Hymn or Tear:</l>
+               <l>In all the Souldiers Toyls ſhe bore a part,</l>
+               <l>Kept his Surviving Image in her Heart:</l>
+               <l>
+                  <hi>Aſtrea</hi> could not hold the Scales more ev'n;</l>
+               <l>She'd ne'er recal a Love once Seal'd in Heav'n.</l>
+               <l>Sometimes indeed ſhe wrung her hands and cry'd,</l>
+               <l>Her pretty Children weeping by her ſide;</l>
+               <l>Into Complaints and Tranſports ſhe would fly,</l>
+               <l>Call the Fates Cruel, but not <hi>Antony:</hi>
+               </l>
+               <l>Her glowing Breaſt did with kind Wiſhes burn,</l>
+               <l>And Love within ſtill whiſper'd he'd return.</l>
+               <l>But <hi>Antony</hi> Perfidious and Unkind,</l>
+               <l>With a Steel'd Heart, and a Falſe Perjur'd Mind,</l>
+               <l>Slighted her gen'rous Faith, her boding Fears,</l>
+               <l>Her Melting Wiſhes, and endearing Prayers;</l>
+               <l>And when from her cold Solitary home</l>
+               <l>With longing Arms ſhe was to <hi>Athens</hi> come</l>
+               <l>To meet lier Lord, he forc't her back to <hi>Rome.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>I little thought,</l>
+               <l>When I at firſt to your Embrace did run,</l>
+               <l>Too Fond alaſs! And Proud to be undone!</l>
+               <l>That my Malignant Stars would thus combine;</l>
+               <l>That poor <hi>Octavia</hi>'s Fortune ſhould be mine.</l>
+               <pb n="15" facs="tcp:100425:10"/>
+               <l>I languiſhing and hoping Innocence</l>
+               <l>Took all your Words for Oracle and Senſe:</l>
+               <l>When you firſt vow'd I ſecretly comply'd,</l>
+               <l>Tho' by fond cuſtom urg'd I oft deny'd:</l>
+               <l>My Paſſion was too ſtrong to be conceal'd,</l>
+               <l>Each treacherous Glance the Myſtery reveal'd:</l>
+               <l>Tho' my officious Tongue did act its part,</l>
+               <l>My Looks ſtill ſpake the Language of my Heart:</l>
+               <l>Somewhat I felt that did ſtrange Heats inſpire,</l>
+               <l>My Blood was kindled, and my Soul took fire:</l>
+               <l>I thruſt you from me, flew from your Embrace;</l>
+               <l>Yet wore Love's kinder Signal in my Face:</l>
+               <l>I bid you go, and chid at your Delay,</l>
+               <l>But as you went with Smiles I bid you ſtay:</l>
+               <l>When e're you ſpake or look't my Heart was mov'd,</l>
+               <l>And tho' I frown'd and ſcorn'd, yet ſtill I lov'd.</l>
+               <l>I ſcarcely could the pleaſing Shock ſuſtain,</l>
+               <l>You look't like <hi>Cupid</hi> grown up to a Man:</l>
+               <l>You ſeem'd all o'er Intelligence and Flame,</l>
+               <l>Love was your Centre, your Circumference Fame.</l>
+               <l>I prais'd (Ah! thoſe ſoft Hours I can't forget)</l>
+               <l>Your Form and Meen, but above all your Wit;</l>
+               <l>When I was moſt diſpleas'd, I was moſt true,</l>
+               <l>To every Object blind and deaf but you:</l>
+               <l>When e'er I wak't, or laid me down in Bed,</l>
+               <l>
+                  <hi>Horatio</hi>'s Lovely Image by me play'd:</l>
+               <l>When I alone did walk, you cloſe did ſtand,</l>
+               <l>Methought I felt you ſnatch and kiſs my Hand:</l>
+               <l>And then ſuch kind and pretty things you ſaid,</l>
+               <l>Would from a Death-Bed raiſe a drooping Maid:</l>
+               <l>Thus for a while my ſoft and yeilding Breaſt</l>
+               <l>Was with tranſporting Images poſſeſt;</l>
+               <l>My Virgin Fears with warm Affection ſtrove,</l>
+               <l>Till at laſt bluſhing I confeſt my Love.</l>
+               <pb n="16" facs="tcp:100425:11"/>
+               <l>But Oh! With what a ſudden furious Joy</l>
+               <l>You did your Lips, and innocent Arms employ!</l>
+               <l>You melting ſpake, then panting ſtood amaz'd,</l>
+               <l>And without breach of Honour claſp't, and gaz'd:</l>
+               <l>You ſoftly preſs't me, and ſweet Kiſſes join'd,</l>
+               <l>Our very Souls did meet, and were entwin'd:</l>
+               <l>You vow'd by all the Witneſſes above,</l>
+               <l>Nothing ſhould e'er allay ſo pure a Love:</l>
+               <l>In your kind loving Arms you held me faſt,</l>
+               <l>And ſaid we ne'er ſhould part while Life did laſt;</l>
+               <l>That nothing but the unkind Deſtinies</l>
+               <l>Should e'er divide our Arms, our Lips, and Eyes;</l>
+               <l>Nothing but Death ſhould tear us from our Joys.</l>
+            </lg>
+            <lg>
+               <l>But Ah! how dim and like a Winter Sun,</l>
+               <l>In a few Years is your <hi>Lucinda</hi> grown?</l>
+               <l>How chang'd from her, whoſe charming Grace and Mien</l>
+               <l>You once ſo much admir'd, and thought Divine?</l>
+               <l>No Luſtre ſtreams from her forgotten Face;</l>
+               <l>No ſweet Endearments flow from her Embrace:</l>
+               <l>No, <hi>Leonora</hi> now has all the Charms;</l>
+               <l>And cold <hi>Lucinda</hi>'s baniſht from your Arms:</l>
+               <l>She's the new dazling Object you adore,</l>
+               <l>And pale <hi>Lucinda</hi>'s Right muſt be no more.</l>
+               <l>Now Sighs alone employ my fainting Breath;</l>
+               <l>I no Companions have but Care and Death:</l>
+               <l>In a dark Cell I penſive ſit and moan,</l>
+               <l>Since you, and all the Bribes of Life are gone:</l>
+               <l>Or if I walk to th' Melancholly Groves,</l>
+               <l>The former Scenes of our once envi'd Loves,</l>
+               <l>Methink the Birds like ſilent Mourners gaze,</l>
+               <l>Or with ſad Notes falute me as I paſs:</l>
+               <l>Nothing from you arrives to eaſe my Grief,</l>
+               <l>Not one kind Letter comes to my relief:</l>
+               <pb n="17" facs="tcp:100425:11"/>
+               <l>The kindeſt Words cannot your Heart encline;</l>
+               <l>Sure ther's no Balm for any Wound like mine.</l>
+               <l>Juſt Heav'n! What have I merited or done,</l>
+               <l>To be thus ſentenc't to be left alone?</l>
+               <l>Chaſt I have been as e're <hi>Penelope,</hi>
+               </l>
+               <l>Or any <hi>Grecian</hi> Dame was fam'd to be;</l>
+               <l>Or as <hi>Lavina</hi> was before ſhe went</l>
+               <l>To the wanton Baths with innocent intent:</l>
+               <l>If e're I have prophan'd our Nuptial Bed</l>
+               <l>With one Adulterous glance; if e'er I did</l>
+               <l>Cheriſh one Wiſh obſcene, or Thought untrue</l>
+               <l>Since the firſt time I mingled Arms with you;</l>
+               <l>May Midnight Wolves tear out my bleeding Heart,</l>
+               <l>May I dye piecemeal, or feell all the ſmart</l>
+               <l>Grim Tyrants e'er deſign'd; may I live on</l>
+               <l>To a long dreadful ſpace, yet lov'd by none:</l>
+               <l>Then die a branded, unlamented Slave,</l>
+               <l>Hiſs't through the World, and ſpurn'd into my Grave.</l>
+            </lg>
+            <lg>
+               <l>Why will you then ingulph your ſelf in ill?</l>
+               <l>Why ſhould you thus a Heart-ſick Woman kill?</l>
+               <l>How can you thus with bleeding Honour rove,</l>
+               <l>And wildly Revel in unlawful Love?</l>
+               <l>Where this ſad Change will end I can't foretell;</l>
+               <l>But my poor Soul divines it can't be well:</l>
+               <l>Since no Succeſsful Fate, or Peaceful End</l>
+               <l>The Diſſolute Hero's Life did e'er attend:</l>
+               <l>Though for a while grown obſtinate in Sin,</l>
+               <l>He may out-face the Monitor within;</l>
+               <l>Yet at the length dark and ill-boding Fears</l>
+               <l>Haunt and torment him whereſoe'er he ſteers.</l>
+               <l>Remembrance of paſt Crimes his Soul does fright</l>
+               <l>By Day, and Hag-ride all his Dreams by Night;</l>
+               <pb n="18" facs="tcp:100425:12"/>
+               <l>And how ſhall he Heav'ns mighty Vengeance ſtem,</l>
+               <l>Who cannot bear its Image in a Dream?</l>
+               <l>Each Wind or Eccho his ſick Fancy wounds,</l>
+               <l>And makes his Spirits ſhoot beyond all bounds:</l>
+               <l>The noiſe of Thunder makes him ſtart and rave;</l>
+               <l>Seems a ſhrill Ghoſt to call him to his Grave;</l>
+               <l>And all the Charms of Muſick, Friends, and Wine</l>
+               <l>Cannot allay the ſtorm he feels within:</l>
+               <l>In his own Breaſt are plac't in open View</l>
+               <l>Tribunal, Witneſs, Judge and Sentence too:</l>
+               <l>And thus, though late, he will confeſs with ſhame</l>
+               <l>What 'tis to violate the Nuptial Flame;</l>
+               <l>What 'tis to wrong a ſpotleſs Womans Fame.</l>
+            </lg>
+            <lg>
+               <l>Pardon this Paſſion of a Heart that bleeds;</l>
+               <l>Pardon this freedom which from Love proceeds.</l>
+               <l>My Soul already haſtens to relent;</l>
+               <l>Forgive me, and I'll teach thee to repent:</l>
+               <l>I'll ne're accuſe thee more; No, firſt I'll lay</l>
+               <l>The blame on Fate, or any thing but thee.</l>
+               <l>But ſure the Injuries to me are giv'n,</l>
+               <l>Are big enough to ſhake a Saint in Heav'n:</l>
+            </lg>
+            <lg>
+               <l>O my vaſt wrongs! Pity ye Pow'rs above</l>
+               <l>My injur'd Faith, and my neglected Love:</l>
+               <l>Help my poor tott'ring Bark; Conduct me o'er,</l>
+               <l>For pale <hi>Lucinda</hi> ſhortly is no more.</l>
+               <l>To th' Golden Strand, and Everlaſting Shore.</l>
+            </lg>
+            <lg>
+               <l>Farewell my much abus'd, and much Lov'd Lord!</l>
+               <l>Ah! that I live to ſpeak the dreadful Word!</l>
+               <l>The Bleſſings of this Life wait on you ſtill,</l>
+               <l>When I am lodg'd in Duſt, or ſome cold Cell:</l>
+               <pb n="19" facs="tcp:100425:12"/>
+               <l>I, like a plunder'd Traveller, ſtript and bare,</l>
+               <l>Expos'd to horrid Damps, and blaſting Air,</l>
+               <l>Lie unregarded here without Relief,</l>
+               <l>Feel nought but want, and nothing taſt but grief:</l>
+               <l>The Doleful Tale of Wretched <hi>Niobe,</hi>
+               </l>
+               <l>Was ſure ſome Dream, or Propheſie of me;</l>
+               <l>For I with Midnight fears am almoſt grown</l>
+               <l>As ſtiff, as cold, and ſenſleſs as a Stone.</l>
+            </lg>
+            <lg>
+               <l>Ah, that kind Heav'n wou'd in ſoft ſounds impart</l>
+               <l>And bear my Sorrows to your yielding heart;</l>
+               <l>Or that I might but in your preſence die;</l>
+               <l>And there begin my Immortality:</l>
+               <l>With willing Arms I'd hang upon your Knees;</l>
+               <l>Breath out my Soul in a dear Rapturous Kiſs:</l>
+               <l>But ſure the World will think my Wrongs but ſmall,</l>
+               <l>When one kind parting Kifs attones for all.</l>
+            </lg>
+            <lg>
+               <l>Once more Dear Object of my Soul farewell:</l>
+               <l>To thee who did'ſt— To thee who dos't excell,</l>
+               <l>Once more, I bid adieu.</l>
+               <l>Yet ſure e'er long, ev'n while time forwards rowls,</l>
+               <l>Before the general Rendezvouze of Souls,</l>
+               <l>We ſhall again Embrace, again Appear</l>
+               <l>All Love, and with a Form more bright and clear,</l>
+               <l>Like Dying Martyrs Kind, and like an Angel Fair.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="20" facs="tcp:100425:13"/>
+            <head>TO AN <hi>Old Gameſome Madam,</hi> Who Twittingly Ask't the AUTHOUR When he Deſign'd To <hi>Settle</hi> in the <hi>World.</hi>
+            </head>
+            <lg>
+               <l>MAdam, I muſt not from my Reaſon fly</l>
+               <l>With the Dull World's Opinions to comply;</l>
+               <l>Nor can I think a Woman's Excellence</l>
+               <l>Conſiſts in Noyſe, fine Dreſs, and want of Senſe:</l>
+               <l>The Anſwer's near at hand; when I can tame</l>
+               <l>Thoſe Riſing Paſſions which divide my Frame,</l>
+               <pb n="21" facs="tcp:100425:13"/>
+               <l>And ſtem the Sallies of undue deſire,</l>
+               <l>Then ſhall I to true Settlement Aſpire:</l>
+               <l>For Settlement ſuppoſes Calm and Eaſe;</l>
+               <l>Ev'n Heav'n conſiſts in Temper, not in place.</l>
+               <l>Angels are ſettled, while abroad they fly,</l>
+               <l>And with ſwift Wings cut the ſoft yielding Sky:</l>
+               <l>And, tho' coarſe Vulgar Souls may count it ſtrange,</l>
+               <l>They reſt at their Bright Home, when wide they range.</l>
+               <l>But he's ne'er ſettled that feels boſom pains,</l>
+               <l>Tho' ty'd at home by Matrimonial Chains:</l>
+               <l>Nor can that Mortal a fix'd State e're find;</l>
+               <l>That wears a Reſtleſs and Aſpiring Mind:</l>
+               <l>Elſe, Men in <hi>Bedlam</hi> may be ſaid to have</l>
+               <l>A Settled Bleſt Condition while they Rave.</l>
+            </lg>
+            <lg>
+               <l>Happy's that Man, whoſe Soul is not confin'd</l>
+               <l>To Time or Place; who owns a free-born mind:</l>
+               <l>Who Bleſt with Friends, and Intellectual Peace,</l>
+               <l>Is Nobly Active, and yet lives at Eaſe.</l>
+               <l>That Loves, but do's not Fear a Lady's Eye,</l>
+               <l>Feels the ſweet Wound, but bravely ſcorns to dye.</l>
+            </lg>
+            <lg>
+               <l>While Lab'rers reſt and Guardian Angels wake,</l>
+               <l>Of Nature's VVorks he can a Proſpect take:</l>
+               <l>And while he treads the quiet, thoughtful round,</l>
+               <l>Eternity alone his thoughts can bound:</l>
+               <l>VVhile others idle ſit at home, abroad</l>
+               <l>He can be Entertain'd, and well Employ'd;</l>
+               <l>Unmov'd be'll be, ev'n while he ſeems to roam,</l>
+               <l>And where he meets his Friend, he is at home.</l>
+               <pb n="22" facs="tcp:100425:14"/>
+               <l>But Madam, can you talk of Settlement,</l>
+               <l>Whom neither God, nor Man could e'er content?</l>
+               <l>Of Wealth you've had, of Husbands too good Store;</l>
+               <l>Thouſands oth' one, and of the other four;</l>
+               <l>And yet you daily pray, and pine for more.</l>
+               <l>Glutted with Humane kind, again you crave,</l>
+               <l>Nor can you ſettled be, 'till lodg'd in Grave.</l>
+               <l>Your gloting Eyes more wantonneſs reflect,</l>
+               <l>Than any high-fed Concubine can act:</l>
+            </lg>
+            <lg>
+               <l>Your wrigling Soul by working frets its way,</l>
+               <l>Thro' Fleſh and Blood, and doe's it ſelf betray.</l>
+               <l>Your reſtleſs Thoughts from Man to Man ſtill rowl;</l>
+               <l>A B eſſed Symptome of a Settled Soul.</l>
+            </lg>
+            <lg>
+               <l>When dreadful Fourſcore Years are paſt and gone,</l>
+               <l>When breath grows ſhort, and the laſt hour draws on;</l>
+               <l>'Tis wondrous pretty in Love's Toils t' Engage,</l>
+               <l>And to be Marri'd in a good Old Age:</l>
+               <l>Wedlock which Youth Adorns, in you's a Sin:</l>
+               <l>Yet you will on; as if you did deſign,</l>
+               <l>By your Stale, wither'd Matrimonial Face,</l>
+               <l>To bring the Dear Lov'd Thing into Diſgrace.</l>
+               <l>For ſhame, Old Chronicle, no longer rove</l>
+               <l>In the wild Myſtick Maze of Lawleſs Love:</l>
+               <l>Hence, and that Venerable Limber lay</l>
+               <l>In ſome dark Vault unknown to Light and Day:</l>
+               <l>There ſigh the ſhort Remains of Life away.</l>
+            </lg>
+            <lg>
+               <l>There Mourn, confeſs, tell o're the num'rous Scroll,</l>
+               <l>Ranſack each ſecret Corner of your Soul.</l>
+               <pb n="23" facs="tcp:100425:14"/>
+               <l>Shake, turn it outward, rub out ev'ry ſtain;</l>
+               <l>Let your Repentance be oth' Nobler ſtrain.</l>
+               <l>And when your Funeral Pomp, and Rites are paid,</l>
+               <l>O'er Tomb let your Effigies be diſplay'd,</l>
+               <l>And do ſome good, at leaſt when you are dead.</l>
+               <l>Your Looks perhaps may to Devotion call;</l>
+               <l>Like Picture of Old <hi>Time</hi> upon a Wall.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:100425:15"/>
+            <head>
+               <hi>Books Printed for, and Sold by</hi> Thomas Speed, <hi>at the</hi> Three Crowns <hi>near the</hi> Royal Exchange <hi>in</hi> Cornhill, 1694.</head>
+            <list>
+               <item>THE Loyal and Impartial Satyriſt: Containing Eight Miſ<g ref="char:EOLhyphen"/>cellany Poems. Price 6 <hi>d.</hi>
+               </item>
+               <item>Thirty Six Sermons, <hi>viz.</hi> 10 <hi>Ad Aulam.</hi> 6 <hi>A Clerum.</hi> 6 <hi>Ad Magiſtratum.</hi> 8 <hi>Ad Populum.</hi> With a large Preface. By the Right Reverend Father in God, <hi>Robert Sanderſon,</hi> late Lord Biſhop of <hi>Lincoln.</hi> The Eighth Edition, corrected and amended. Where<g ref="char:EOLhyphen"/>unto is now added the Life of the Reverend and Learned Author. Written by <hi>Iſaac Walton Folio.</hi> Price 15 <hi>s.</hi>
+               </item>
+               <item>A Sermon at the Funeral of the Reverend Mr. <hi>Thomas Grey,</hi> late Vicar of <hi>Dedham</hi> in <hi>Eſſex;</hi> preach'd in the Pariſh-Church of <hi>Dedham, Feb.</hi> 2. 1691. With a ſhort Account of his Life. By <hi>Joſeph Powell.</hi> A.M. Rector of St. <hi>Mary on the Wall,</hi> in <hi>Colcheſter.</hi> Price 6 <hi>d.</hi>
+               </item>
+               <item>An Anatomy of Atheiſme: A Poem by a Perſon of Quality. Price Six pence.</item>
+               <item>
+                  <hi>Converſation in Heaven:</hi> Being Devotions; conſiſting of Meditations and Prayers, on ſeveral conſiderable Subjects in Practical Divinity. Written for the Raiſing the Decay'd Spirit of Piety. By <hi>Lawrence Smith,</hi> LL. D. Fellow of <hi>St. John</hi>'s Colledge in <hi>Oxford,</hi> 12<hi>mo.</hi> Price Two Shillings.</item>
+               <item>Luſus Amatotius: Sive Muſaei Poema de Herone &amp; Leandro, E Graec à in Latinam Linguam Tranllatum. Cui Aliae (tres ſcilicet) accedunt Nugae Poeticae. Authore <hi>C. B.</hi> è Coll. Di Jo. Bapt. Soc. 4<hi>o</hi> Price 6 <hi>d.</hi>
+               </item>
+               <item>
+                  <hi>Tachygraphy:</hi> The moſt Exact and Compendious Method of Short and Swift Writing, that hath ever yet been publiſhed by any. Compoſed by <hi>Thomas Shelton,</hi> Author and Profeſſor of the ſaid Art. Approved by both the Univerſities, 8<hi>o.</hi> Price 4 <hi>s.</hi>
+               </item>
+               <item>
+                  <hi>Zeiglographia:</hi> Or, a New Art of Short-Writing, never before publiſhed; more Eaſie, Exact, Short, and Speedy than any here<g ref="char:EOLhyphen"/>tofore. Invented and Compoſed by <hi>Thomas Shelton,</hi> Author and Teacher of the ſaid Art. Allowed by Authority, 8<hi>o.</hi> Price one Shilling.</item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
